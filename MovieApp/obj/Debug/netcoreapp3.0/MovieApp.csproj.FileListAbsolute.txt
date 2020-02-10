@@ -1,0 +1,11 @@
+/Users/shenayrussell/Projects/MovieApp/MovieApp/bin/Debug/netcoreapp3.0/MovieApp
+/Users/shenayrussell/Projects/MovieApp/MovieApp/bin/Debug/netcoreapp3.0/MovieApp.deps.json
+/Users/shenayrussell/Projects/MovieApp/MovieApp/bin/Debug/netcoreapp3.0/MovieApp.runtimeconfig.json
+/Users/shenayrussell/Projects/MovieApp/MovieApp/bin/Debug/netcoreapp3.0/MovieApp.runtimeconfig.dev.json
+/Users/shenayrussell/Projects/MovieApp/MovieApp/bin/Debug/netcoreapp3.0/MovieApp.dll
+/Users/shenayrussell/Projects/MovieApp/MovieApp/bin/Debug/netcoreapp3.0/MovieApp.pdb
+/Users/shenayrussell/Projects/MovieApp/MovieApp/obj/Debug/netcoreapp3.0/MovieApp.csprojAssemblyReference.cache
+/Users/shenayrussell/Projects/MovieApp/MovieApp/obj/Debug/netcoreapp3.0/MovieApp.AssemblyInfoInputs.cache
+/Users/shenayrussell/Projects/MovieApp/MovieApp/obj/Debug/netcoreapp3.0/MovieApp.AssemblyInfo.cs
+/Users/shenayrussell/Projects/MovieApp/MovieApp/obj/Debug/netcoreapp3.0/MovieApp.dll
+/Users/shenayrussell/Projects/MovieApp/MovieApp/obj/Debug/netcoreapp3.0/MovieApp.pdb
